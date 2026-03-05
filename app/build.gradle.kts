@@ -14,7 +14,7 @@ repositories {
 
 dependencies {
     implementation("org.slf4j:slf4j-api:2.0.17")
-    runtimeOnly("io.jstach.rainbowgum:rainbowgum:0.8.1")
+    runtimeOnly("io.jstach.rainbowgum:rainbowgum:0.8.2")
     runtimeOnly(project(":rgconfig"))
 }
 
